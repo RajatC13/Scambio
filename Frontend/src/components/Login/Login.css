@@ -1,0 +1,6 @@
+.left-info{
+    min-height: 600px;
+    height: 100%;
+    overflow: hidden;
+    background-color: red;
+}
